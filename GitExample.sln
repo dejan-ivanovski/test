@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "GitExample", ".", "{FB216C2B-38B0-48D2-83AD-F187A5085B8D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55146"
+		Debug.AspNetCompiler.PhysicalPath = "..\GitExample\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55146\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55146"
+		Release.AspNetCompiler.PhysicalPath = "..\GitExample\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55146\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55146"
+		SlnRelativePath = "..\GitExample\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB216C2B-38B0-48D2-83AD-F187A5085B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB216C2B-38B0-48D2-83AD-F187A5085B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA575D1F-217E-4703-997D-B22877DA1119}
+	EndGlobalSection
+EndGlobal
